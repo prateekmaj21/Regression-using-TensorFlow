@@ -21,3 +21,4 @@ My solution for the Coursera project.
 
 ![Certificate](https://github.com/prateekmaj21/Regression-using-TensorFlow/blob/master/Project%20Certificate.jpg)
 
+[Verification Link](https://www.coursera.org/account/accomplishments/verify/DR8CBYK84WP8)
